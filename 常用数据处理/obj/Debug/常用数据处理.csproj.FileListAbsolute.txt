@@ -1,0 +1,6 @@
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\obj\Debug\常用数据处理.csprojAssemblyReference.cache
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\obj\Debug\常用数据处理.csproj.CoreCompileInputs.cache
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\bin\Debug\LK.Caculation.dll
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\bin\Debug\LK.Caculation.pdb
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\obj\Debug\LK.Caculation.dll
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\常用数据处理\obj\Debug\LK.Caculation.pdb

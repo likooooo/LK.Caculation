@@ -1,0 +1,9 @@
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\bin\Debug\Sample.exe
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\bin\Debug\Sample.pdb
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\bin\Debug\LK.Caculation.dll
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\bin\Debug\LK.Caculation.pdb
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\obj\Debug\Sample.csproj.CopyComplete
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\obj\Debug\Sample.exe
+G:\微软的文档\VisualStudioProject\c#语法学习相关\0数据处理\Sample\obj\Debug\Sample.pdb
